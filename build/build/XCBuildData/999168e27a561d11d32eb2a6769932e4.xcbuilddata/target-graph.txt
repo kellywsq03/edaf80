@@ -1,0 +1,16 @@
+Target dependency graph (5 targets)
+Target 'EDAF80_Assignment1' in project 'CG_Labs'
+➜ Explicit dependency on target 'external_libs' in project 'CG_Labs'
+➜ Explicit dependency on target 'bonobo' in project 'CG_Labs'
+➜ Explicit dependency on target 'parametric_shapes' in project 'CG_Labs'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'CG_Labs'
+Target 'parametric_shapes' in project 'CG_Labs'
+➜ Explicit dependency on target 'external_libs' in project 'CG_Labs'
+➜ Explicit dependency on target 'bonobo' in project 'CG_Labs'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'CG_Labs'
+Target 'bonobo' in project 'CG_Labs'
+➜ Explicit dependency on target 'external_libs' in project 'CG_Labs'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'CG_Labs'
+Target 'external_libs' in project 'CG_Labs'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'CG_Labs'
+Target 'ZERO_CHECK' in project 'CG_Labs' (no dependencies)

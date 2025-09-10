@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/cmake_install.cmake",
+		"/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/external/cmake_install.cmake",
+		"/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/core/cmake_install.cmake",
+		"/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAF80/cmake_install.cmake",
+		"/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAN35/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

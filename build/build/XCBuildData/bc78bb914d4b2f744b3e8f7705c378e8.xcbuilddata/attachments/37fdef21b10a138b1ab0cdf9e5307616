@@ -1,0 +1,15 @@
+#!/bin/sh
+set -e
+if test "$CONFIGURATION" = "Debug"; then :
+  cd /Users/kelly/Documents/NUS/EDAF80/Assignment1/build
+  /opt/homebrew/bin/cmake -DBUILD_TYPE=$CONFIGURATION$EFFECTIVE_PLATFORM_NAME -P cmake_install.cmake
+fi
+if test "$CONFIGURATION" = "Release"; then :
+  cd /Users/kelly/Documents/NUS/EDAF80/Assignment1/build
+  /opt/homebrew/bin/cmake -DBUILD_TYPE=$CONFIGURATION$EFFECTIVE_PLATFORM_NAME -P cmake_install.cmake
+fi
+if test "$CONFIGURATION" = "RelWithDebInfo"; then :
+  cd /Users/kelly/Documents/NUS/EDAF80/Assignment1/build
+  /opt/homebrew/bin/cmake -DBUILD_TYPE=$CONFIGURATION$EFFECTIVE_PLATFORM_NAME -P cmake_install.cmake
+fi
+

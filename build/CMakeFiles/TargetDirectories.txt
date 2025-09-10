@@ -1,0 +1,17 @@
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/CMakeFiles/install.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/CMakeFiles/ALL_BUILD.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/CMakeFiles/ZERO_CHECK.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/external/CMakeFiles/external_libs.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/external/CMakeFiles/install.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/core/CMakeFiles/bonobo.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/core/CMakeFiles/install.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAF80/CMakeFiles/interpolation.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAF80/CMakeFiles/parametric_shapes.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAF80/CMakeFiles/EDAF80_Assignment1.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAF80/CMakeFiles/EDAF80_Assignment2.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAF80/CMakeFiles/EDAF80_Assignment3.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAF80/CMakeFiles/EDAF80_Assignment4.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAF80/CMakeFiles/EDAF80_Assignment5.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAF80/CMakeFiles/install.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAN35/CMakeFiles/EDAN35_Assignment2.dir
+/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/src/EDAN35/CMakeFiles/install.dir

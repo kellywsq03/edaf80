@@ -1,0 +1,95 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef25b395f1f6a3c98af6c5f9c2868bec501"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef23e4f41500d7ea73c89e067bc380c0369"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef2c74f6d0698dfa666534ab4180080b210"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef2a4f9186dd2df7eab206338b37b17553c"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef2e141fcf16f2cfd83375db87aec137bd7"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef22655acb0e37f4b253fccd85fda78f282"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef240fc894e23bde8b4b2ee9e78fd7501f7"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef2faf94943b1d93e4cf0219f81df9915ee"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef21a7ef9087f23d444b52bfab0c73c0017"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef22460ae84fa4bf82f2bb16e1957f28fa5"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef24045eaecae16a127fbd495af00c4dbed"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef24d7ea47b28a2d84c14370569ac8ed777"
+    },
+    {
+      "guid" : "993373f777dc0d461ed2b9e667c81ef23d8c087d10b4c9e3558504bd87772352"
+    }
+  ],
+  "containerPath" : "/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/CG_Labs.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx15.5",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/kelly/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kelly/Library/Developer/Xcode/DerivedData/CG_Labs-harrkgoeerpoyfcngcyrjfajncwd/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kelly/Library/Developer/Xcode/DerivedData/CG_Labs-harrkgoeerpoyfcngcyrjfajncwd/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
