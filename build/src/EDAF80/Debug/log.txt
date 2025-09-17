@@ -5,9 +5,9 @@ Framework initialisation done.
 Using OpenGL 4.1 with context options: profile=core, debug=false, forward compatible=true.
 DebugCallback is not core in OpenGL 4.1, and sadly the GL_KHR_DEBUG extension is not available either.
 ┭ Loading "/Users/kelly/Documents/NUS/EDAF80/Assignment1/code/res/scenes/sphere.obj"…
-│ ╺ Material "DefaultMaterial" loaded in 0.004 ms
-│ ╶ Mesh "Sphere" loaded with attributes [normals | tangents&bitangents | texture coordinates] in 0.811 ms
-┕ Scene loaded in 0.009 s: 0 textures loaded in 0.000 s and 1 meshes in 0.001 s
+│ ╺ Material "DefaultMaterial" loaded in 0.003 ms
+│ ╶ Mesh "Sphere" loaded with attributes [normals | tangents&bitangents | texture coordinates] in 0.829 ms
+┕ Scene loaded in 0.010 s: 0 textures loaded in 0.000 s and 1 meshes in 0.001 s
 Framework shutting down.
 
  === End of log === 

@@ -1,5 +1,5 @@
 Target dependency graph (5 targets)
-Target 'EDAF80_Assignment3' in project 'CG_Labs'
+Target 'EDAF80_Assignment1' in project 'CG_Labs'
 ➜ Explicit dependency on target 'external_libs' in project 'CG_Labs'
 ➜ Explicit dependency on target 'bonobo' in project 'CG_Labs'
 ➜ Explicit dependency on target 'parametric_shapes' in project 'CG_Labs'

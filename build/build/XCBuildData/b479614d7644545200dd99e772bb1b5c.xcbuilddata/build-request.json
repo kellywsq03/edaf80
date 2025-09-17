@@ -6,7 +6,7 @@
   },
   "configuredTargets" : [
     {
-      "guid" : "993373f777dc0d461ed2b9e667c81ef2a4f9186dd2df7eab206338b37b17553c"
+      "guid" : "993373f777dc0d461ed2b9e667c81ef23e4f41500d7ea73c89e067bc380c0369"
     }
   ],
   "containerPath" : "/Users/kelly/Documents/NUS/EDAF80/Assignment1/build/CG_Labs.xcodeproj",
@@ -43,16 +43,15 @@
       "synthesized" : {
         "table" : {
           "ENABLE_PREVIEWS" : "NO",
-          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
           "ONLY_ACTIVE_ARCH" : "YES"
         }
       }
     }
   },
-  "qos" : "default",
   "schemeCommand" : "launch",
   "showNonLoggedProgress" : true,
-  "useDryRun" : true,
+  "useDryRun" : false,
   "useImplicitDependencies" : true,
   "useLegacyBuildLocations" : false,
   "useParallelTargets" : true
